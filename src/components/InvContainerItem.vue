@@ -22,6 +22,7 @@ export default {
 <style>
 .inventory-list__item {
   min-height: 100px;
+  height: 100%;
   width: 100%;
 }
 
