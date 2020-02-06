@@ -1,9 +1,7 @@
 <template>
   <footer>
     <div class="inner-container">
-      <small>
-        &copy; {{ currentYear }} 
-      </small>
+      <small>&copy; {{ currentYear }} PhoenixJaymes</small>
     </div>
   </footer>
 </template>

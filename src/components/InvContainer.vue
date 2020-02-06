@@ -49,6 +49,4 @@ export default {
     grid-template-columns: repeat(3, 200px);
   }
 }
-
-
 </style>
